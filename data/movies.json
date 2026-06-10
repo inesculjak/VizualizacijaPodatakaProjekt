@@ -1,0 +1,3863 @@
+[
+  {
+    "title": "La Dolce Vita",
+    "country": "Italy",
+    "year": 1960,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Federico Fellini",
+    "votes": 132000,
+    "decade": 1960
+  },
+  {
+    "title": "8\u00bd",
+    "country": "Italy",
+    "year": 1963,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Federico Fellini",
+    "votes": 118000,
+    "decade": 1960
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "country": "Italy",
+    "year": 1966,
+    "rating": 8.8,
+    "genre": "Western",
+    "director": "Sergio Leone",
+    "votes": 780000,
+    "decade": 1960
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "country": "Italy",
+    "year": 1968,
+    "rating": 8.5,
+    "genre": "Western",
+    "director": "Sergio Leone",
+    "votes": 330000,
+    "decade": 1960
+  },
+  {
+    "title": "Cinema Paradiso",
+    "country": "Italy",
+    "year": 1988,
+    "rating": 8.5,
+    "genre": "Drama",
+    "director": "Giuseppe Tornatore",
+    "votes": 240000,
+    "decade": 1980
+  },
+  {
+    "title": "Life is Beautiful",
+    "country": "Italy",
+    "year": 1997,
+    "rating": 8.6,
+    "genre": "Comedy",
+    "director": "Roberto Benigni",
+    "votes": 700000,
+    "decade": 1990
+  },
+  {
+    "title": "The Great Beauty",
+    "country": "Italy",
+    "year": 2013,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Paolo Sorrentino",
+    "votes": 85000,
+    "decade": 2010
+  },
+  {
+    "title": "Il Posto",
+    "country": "Italy",
+    "year": 1961,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Ermanno Olmi",
+    "votes": 12000,
+    "decade": 1960
+  },
+  {
+    "title": "Bicycle Thieves",
+    "country": "Italy",
+    "year": 1948,
+    "rating": 8.3,
+    "genre": "Drama",
+    "director": "Vittorio De Sica",
+    "votes": 175000,
+    "decade": 1940
+  },
+  {
+    "title": "Rome, Open City",
+    "country": "Italy",
+    "year": 1945,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Roberto Rossellini",
+    "votes": 32000,
+    "decade": 1940
+  },
+  {
+    "title": "Amarcord",
+    "country": "Italy",
+    "year": 1973,
+    "rating": 8.0,
+    "genre": "Comedy",
+    "director": "Federico Fellini",
+    "votes": 72000,
+    "decade": 1970
+  },
+  {
+    "title": "Il Sorpasso",
+    "country": "Italy",
+    "year": 1962,
+    "rating": 8.1,
+    "genre": "Comedy",
+    "director": "Dino Risi",
+    "votes": 23000,
+    "decade": 1960
+  },
+  {
+    "title": "Divorce Italian Style",
+    "country": "Italy",
+    "year": 1961,
+    "rating": 7.8,
+    "genre": "Comedy",
+    "director": "Pietro Germi",
+    "votes": 28000,
+    "decade": 1960
+  },
+  {
+    "title": "The Conformist",
+    "country": "Italy",
+    "year": 1970,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Bernardo Bertolucci",
+    "votes": 40000,
+    "decade": 1970
+  },
+  {
+    "title": "Salvatore Giuliano",
+    "country": "Italy",
+    "year": 1962,
+    "rating": 7.8,
+    "genre": "Crime",
+    "director": "Francesco Rosi",
+    "votes": 7000,
+    "decade": 1960
+  },
+  {
+    "title": "L'Avventura",
+    "country": "Italy",
+    "year": 1960,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Michelangelo Antonioni",
+    "votes": 38000,
+    "decade": 1960
+  },
+  {
+    "title": "Blow-Up",
+    "country": "Italy",
+    "year": 1966,
+    "rating": 7.6,
+    "genre": "Mystery",
+    "director": "Michelangelo Antonioni",
+    "votes": 65000,
+    "decade": 1960
+  },
+  {
+    "title": "The Battle of Algiers",
+    "country": "Italy",
+    "year": 1966,
+    "rating": 8.1,
+    "genre": "War",
+    "director": "Gillo Pontecorvo",
+    "votes": 75000,
+    "decade": 1960
+  },
+  {
+    "title": "Suspiria",
+    "country": "Italy",
+    "year": 1977,
+    "rating": 7.4,
+    "genre": "Horror",
+    "director": "Dario Argento",
+    "votes": 100000,
+    "decade": 1970
+  },
+  {
+    "title": "Umberto D.",
+    "country": "Italy",
+    "year": 1952,
+    "rating": 8.2,
+    "genre": "Drama",
+    "director": "Vittorio De Sica",
+    "votes": 30000,
+    "decade": 1950
+  },
+  {
+    "title": "Breathless",
+    "country": "France",
+    "year": 1960,
+    "rating": 7.8,
+    "genre": "Crime",
+    "director": "Jean-Luc Godard",
+    "votes": 100000,
+    "decade": 1960
+  },
+  {
+    "title": "The 400 Blows",
+    "country": "France",
+    "year": 1959,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Fran\u00e7ois Truffaut",
+    "votes": 145000,
+    "decade": 1950
+  },
+  {
+    "title": "Hiroshima Mon Amour",
+    "country": "France",
+    "year": 1959,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Alain Resnais",
+    "votes": 35000,
+    "decade": 1950
+  },
+  {
+    "title": "Les Diaboliques",
+    "country": "France",
+    "year": 1955,
+    "rating": 8.0,
+    "genre": "Thriller",
+    "director": "Henri-Georges Clouzot",
+    "votes": 55000,
+    "decade": 1950
+  },
+  {
+    "title": "The Wages of Fear",
+    "country": "France",
+    "year": 1953,
+    "rating": 8.1,
+    "genre": "Thriller",
+    "director": "Henri-Georges Clouzot",
+    "votes": 65000,
+    "decade": 1950
+  },
+  {
+    "title": "Jules and Jim",
+    "country": "France",
+    "year": 1962,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Fran\u00e7ois Truffaut",
+    "votes": 65000,
+    "decade": 1960
+  },
+  {
+    "title": "Amelie",
+    "country": "France",
+    "year": 2001,
+    "rating": 8.3,
+    "genre": "Comedy",
+    "director": "Jean-Pierre Jeunet",
+    "votes": 800000,
+    "decade": 2000
+  },
+  {
+    "title": "The Artist",
+    "country": "France",
+    "year": 2011,
+    "rating": 7.9,
+    "genre": "Comedy",
+    "director": "Michel Hazanavicius",
+    "votes": 230000,
+    "decade": 2010
+  },
+  {
+    "title": "Blue Is the Warmest Colour",
+    "country": "France",
+    "year": 2013,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Abdellatif Kechiche",
+    "votes": 160000,
+    "decade": 2010
+  },
+  {
+    "title": "La Haine",
+    "country": "France",
+    "year": 1995,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Mathieu Kassovitz",
+    "votes": 185000,
+    "decade": 1990
+  },
+  {
+    "title": "Playtime",
+    "country": "France",
+    "year": 1967,
+    "rating": 7.9,
+    "genre": "Comedy",
+    "director": "Jacques Tati",
+    "votes": 42000,
+    "decade": 1960
+  },
+  {
+    "title": "Mon Oncle",
+    "country": "France",
+    "year": 1958,
+    "rating": 7.7,
+    "genre": "Comedy",
+    "director": "Jacques Tati",
+    "votes": 28000,
+    "decade": 1950
+  },
+  {
+    "title": "The Umbrellas of Cherbourg",
+    "country": "France",
+    "year": 1964,
+    "rating": 7.8,
+    "genre": "Romance",
+    "director": "Jacques Demy",
+    "votes": 50000,
+    "decade": 1960
+  },
+  {
+    "title": "Contempt",
+    "country": "France",
+    "year": 1963,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Jean-Luc Godard",
+    "votes": 30000,
+    "decade": 1960
+  },
+  {
+    "title": "Night and Fog",
+    "country": "France",
+    "year": 1956,
+    "rating": 8.5,
+    "genre": "Documentary",
+    "director": "Alain Resnais",
+    "votes": 35000,
+    "decade": 1950
+  },
+  {
+    "title": "The Piano Teacher",
+    "country": "France",
+    "year": 2001,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Michael Haneke",
+    "votes": 80000,
+    "decade": 2000
+  },
+  {
+    "title": "Cach\u00e9",
+    "country": "France",
+    "year": 2005,
+    "rating": 7.5,
+    "genre": "Thriller",
+    "director": "Michael Haneke",
+    "votes": 95000,
+    "decade": 2000
+  },
+  {
+    "title": "A Prophet",
+    "country": "France",
+    "year": 2009,
+    "rating": 7.9,
+    "genre": "Crime",
+    "director": "Jacques Audiard",
+    "votes": 130000,
+    "decade": 2000
+  },
+  {
+    "title": "Dheepan",
+    "country": "France",
+    "year": 2015,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Jacques Audiard",
+    "votes": 48000,
+    "decade": 2010
+  },
+  {
+    "title": "Mon Oncle d'Am\u00e9rique",
+    "country": "France",
+    "year": 1980,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Alain Resnais",
+    "votes": 8000,
+    "decade": 1980
+  },
+  {
+    "title": "Cleo from 5 to 7",
+    "country": "France",
+    "year": 1962,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Agn\u00e8s Varda",
+    "votes": 22000,
+    "decade": 1960
+  },
+  {
+    "title": "Vagabond",
+    "country": "France",
+    "year": 1985,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Agn\u00e8s Varda",
+    "votes": 18000,
+    "decade": 1980
+  },
+  {
+    "title": "Faces Places",
+    "country": "France",
+    "year": 2017,
+    "rating": 7.9,
+    "genre": "Documentary",
+    "director": "Agn\u00e8s Varda",
+    "votes": 18000,
+    "decade": 2010
+  },
+  {
+    "title": "The Class",
+    "country": "France",
+    "year": 2008,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Laurent Cantet",
+    "votes": 30000,
+    "decade": 2000
+  },
+  {
+    "title": "Metropolis",
+    "country": "Germany",
+    "year": 1927,
+    "rating": 8.3,
+    "genre": "Sci-Fi",
+    "director": "Fritz Lang",
+    "votes": 230000,
+    "decade": 1920
+  },
+  {
+    "title": "M",
+    "country": "Germany",
+    "year": 1931,
+    "rating": 8.3,
+    "genre": "Thriller",
+    "director": "Fritz Lang",
+    "votes": 205000,
+    "decade": 1930
+  },
+  {
+    "title": "Nosferatu",
+    "country": "Germany",
+    "year": 1922,
+    "rating": 7.9,
+    "genre": "Horror",
+    "director": "F.W. Murnau",
+    "votes": 155000,
+    "decade": 1920
+  },
+  {
+    "title": "The Cabinet of Dr. Caligari",
+    "country": "Germany",
+    "year": 1920,
+    "rating": 8.0,
+    "genre": "Horror",
+    "director": "Robert Wiene",
+    "votes": 70000,
+    "decade": 1920
+  },
+  {
+    "title": "Aguirre, the Wrath of God",
+    "country": "Germany",
+    "year": 1972,
+    "rating": 7.8,
+    "genre": "Adventure",
+    "director": "Werner Herzog",
+    "votes": 80000,
+    "decade": 1970
+  },
+  {
+    "title": "Fitzcarraldo",
+    "country": "Germany",
+    "year": 1982,
+    "rating": 7.7,
+    "genre": "Adventure",
+    "director": "Werner Herzog",
+    "votes": 50000,
+    "decade": 1980
+  },
+  {
+    "title": "Nosferatu the Vampyre",
+    "country": "Germany",
+    "year": 1979,
+    "rating": 7.4,
+    "genre": "Horror",
+    "director": "Werner Herzog",
+    "votes": 35000,
+    "decade": 1970
+  },
+  {
+    "title": "Ali: Fear Eats the Soul",
+    "country": "Germany",
+    "year": 1974,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Rainer Werner Fassbinder",
+    "votes": 28000,
+    "decade": 1970
+  },
+  {
+    "title": "Wings of Desire",
+    "country": "Germany",
+    "year": 1987,
+    "rating": 8.0,
+    "genre": "Fantasy",
+    "director": "Wim Wenders",
+    "votes": 80000,
+    "decade": 1980
+  },
+  {
+    "title": "Paris, Texas",
+    "country": "Germany",
+    "year": 1984,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Wim Wenders",
+    "votes": 120000,
+    "decade": 1980
+  },
+  {
+    "title": "Run Lola Run",
+    "country": "Germany",
+    "year": 1998,
+    "rating": 7.6,
+    "genre": "Action",
+    "director": "Tom Tykwer",
+    "votes": 220000,
+    "decade": 1990
+  },
+  {
+    "title": "Downfall",
+    "country": "Germany",
+    "year": 2004,
+    "rating": 8.2,
+    "genre": "History",
+    "director": "Oliver Hirschbiegel",
+    "votes": 355000,
+    "decade": 2000
+  },
+  {
+    "title": "The Lives of Others",
+    "country": "Germany",
+    "year": 2006,
+    "rating": 8.4,
+    "genre": "Thriller",
+    "director": "Florian Henckel von Donnersmarck",
+    "votes": 470000,
+    "decade": 2000
+  },
+  {
+    "title": "Goodbye Lenin!",
+    "country": "Germany",
+    "year": 2003,
+    "rating": 7.7,
+    "genre": "Comedy",
+    "director": "Wolfgang Becker",
+    "votes": 200000,
+    "decade": 2000
+  },
+  {
+    "title": "Das Boot",
+    "country": "Germany",
+    "year": 1981,
+    "rating": 8.3,
+    "genre": "War",
+    "director": "Wolfgang Petersen",
+    "votes": 300000,
+    "decade": 1980
+  },
+  {
+    "title": "The Tin Drum",
+    "country": "Germany",
+    "year": 1979,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Volker Schl\u00f6ndorff",
+    "votes": 40000,
+    "decade": 1970
+  },
+  {
+    "title": "Funny Games",
+    "country": "Germany",
+    "year": 1997,
+    "rating": 7.5,
+    "genre": "Thriller",
+    "director": "Michael Haneke",
+    "votes": 120000,
+    "decade": 1990
+  },
+  {
+    "title": "Toni Erdmann",
+    "country": "Germany",
+    "year": 2016,
+    "rating": 7.4,
+    "genre": "Comedy",
+    "director": "Maren Ade",
+    "votes": 55000,
+    "decade": 2010
+  },
+  {
+    "title": "Victoria",
+    "country": "Germany",
+    "year": 2015,
+    "rating": 7.6,
+    "genre": "Crime",
+    "director": "Sebastian Schipper",
+    "votes": 50000,
+    "decade": 2010
+  },
+  {
+    "title": "Head-On",
+    "country": "Germany",
+    "year": 2004,
+    "rating": 7.6,
+    "genre": "Romance",
+    "director": "Fatih Akin",
+    "votes": 32000,
+    "decade": 2000
+  },
+  {
+    "title": "The Seventh Seal",
+    "country": "Sweden",
+    "year": 1957,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Ingmar Bergman",
+    "votes": 180000,
+    "decade": 1950
+  },
+  {
+    "title": "Wild Strawberries",
+    "country": "Sweden",
+    "year": 1957,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Ingmar Bergman",
+    "votes": 110000,
+    "decade": 1950
+  },
+  {
+    "title": "Persona",
+    "country": "Sweden",
+    "year": 1966,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Ingmar Bergman",
+    "votes": 130000,
+    "decade": 1960
+  },
+  {
+    "title": "Cries and Whispers",
+    "country": "Sweden",
+    "year": 1972,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Ingmar Bergman",
+    "votes": 65000,
+    "decade": 1970
+  },
+  {
+    "title": "Scenes from a Marriage",
+    "country": "Sweden",
+    "year": 1973,
+    "rating": 8.3,
+    "genre": "Drama",
+    "director": "Ingmar Bergman",
+    "votes": 35000,
+    "decade": 1970
+  },
+  {
+    "title": "Fanny and Alexander",
+    "country": "Sweden",
+    "year": 1982,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Ingmar Bergman",
+    "votes": 80000,
+    "decade": 1980
+  },
+  {
+    "title": "The Square",
+    "country": "Sweden",
+    "year": 2017,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Ruben \u00d6stlund",
+    "votes": 85000,
+    "decade": 2010
+  },
+  {
+    "title": "Force Majeure",
+    "country": "Sweden",
+    "year": 2014,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Ruben \u00d6stlund",
+    "votes": 75000,
+    "decade": 2010
+  },
+  {
+    "title": "Triangle of Sadness",
+    "country": "Sweden",
+    "year": 2022,
+    "rating": 7.3,
+    "genre": "Comedy",
+    "director": "Ruben \u00d6stlund",
+    "votes": 160000,
+    "decade": 2020
+  },
+  {
+    "title": "A Man Called Ove",
+    "country": "Sweden",
+    "year": 2015,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Hannes Holm",
+    "votes": 130000,
+    "decade": 2010
+  },
+  {
+    "title": "Let the Right One In",
+    "country": "Sweden",
+    "year": 2008,
+    "rating": 7.9,
+    "genre": "Horror",
+    "director": "Tomas Alfredson",
+    "votes": 250000,
+    "decade": 2000
+  },
+  {
+    "title": "Songs from the Second Floor",
+    "country": "Sweden",
+    "year": 2000,
+    "rating": 7.5,
+    "genre": "Comedy",
+    "director": "Roy Andersson",
+    "votes": 18000,
+    "decade": 2000
+  },
+  {
+    "title": "A Pigeon Sat on a Branch Reflecting on Existence",
+    "country": "Sweden",
+    "year": 2014,
+    "rating": 7.2,
+    "genre": "Comedy",
+    "director": "Roy Andersson",
+    "votes": 18000,
+    "decade": 2010
+  },
+  {
+    "title": "Dancer in the Dark",
+    "country": "Denmark",
+    "year": 2000,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Lars von Trier",
+    "votes": 270000,
+    "decade": 2000
+  },
+  {
+    "title": "Melancholia",
+    "country": "Denmark",
+    "year": 2011,
+    "rating": 7.1,
+    "genre": "Sci-Fi",
+    "director": "Lars von Trier",
+    "votes": 220000,
+    "decade": 2010
+  },
+  {
+    "title": "Breaking the Waves",
+    "country": "Denmark",
+    "year": 1996,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Lars von Trier",
+    "votes": 80000,
+    "decade": 1990
+  },
+  {
+    "title": "The Celebration",
+    "country": "Denmark",
+    "year": 1998,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Thomas Vinterberg",
+    "votes": 68000,
+    "decade": 1990
+  },
+  {
+    "title": "The Hunt",
+    "country": "Denmark",
+    "year": 2012,
+    "rating": 8.3,
+    "genre": "Drama",
+    "director": "Thomas Vinterberg",
+    "votes": 370000,
+    "decade": 2010
+  },
+  {
+    "title": "Another Round",
+    "country": "Denmark",
+    "year": 2020,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Thomas Vinterberg",
+    "votes": 220000,
+    "decade": 2020
+  },
+  {
+    "title": "After the Wedding",
+    "country": "Denmark",
+    "year": 2006,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Susanne Bier",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "In a Better World",
+    "country": "Denmark",
+    "year": 2010,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Susanne Bier",
+    "votes": 60000,
+    "decade": 2010
+  },
+  {
+    "title": "The Word",
+    "country": "Denmark",
+    "year": 1955,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Carl Theodor Dreyer",
+    "votes": 35000,
+    "decade": 1950
+  },
+  {
+    "title": "Antichrist",
+    "country": "Denmark",
+    "year": 2009,
+    "rating": 6.6,
+    "genre": "Horror",
+    "director": "Lars von Trier",
+    "votes": 130000,
+    "decade": 2000
+  },
+  {
+    "title": "The Lives of Others",
+    "country": "Germany",
+    "year": 2006,
+    "rating": 8.4,
+    "genre": "Thriller",
+    "director": "Florian Henckel von Donnersmarck",
+    "votes": 470000,
+    "decade": 2000
+  },
+  {
+    "title": "All About My Mother",
+    "country": "Spain",
+    "year": 1999,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Pedro Almod\u00f3var",
+    "votes": 160000,
+    "decade": 1990
+  },
+  {
+    "title": "Talk to Her",
+    "country": "Spain",
+    "year": 2002,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Pedro Almod\u00f3var",
+    "votes": 165000,
+    "decade": 2000
+  },
+  {
+    "title": "Volver",
+    "country": "Spain",
+    "year": 2006,
+    "rating": 7.8,
+    "genre": "Comedy",
+    "director": "Pedro Almod\u00f3var",
+    "votes": 105000,
+    "decade": 2000
+  },
+  {
+    "title": "The Skin I Live In",
+    "country": "Spain",
+    "year": 2011,
+    "rating": 7.6,
+    "genre": "Thriller",
+    "director": "Pedro Almod\u00f3var",
+    "votes": 175000,
+    "decade": 2010
+  },
+  {
+    "title": "Women on the Verge of a Nervous Breakdown",
+    "country": "Spain",
+    "year": 1988,
+    "rating": 7.6,
+    "genre": "Comedy",
+    "director": "Pedro Almod\u00f3var",
+    "votes": 65000,
+    "decade": 1980
+  },
+  {
+    "title": "Pain and Glory",
+    "country": "Spain",
+    "year": 2019,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Pedro Almod\u00f3var",
+    "votes": 70000,
+    "decade": 2010
+  },
+  {
+    "title": "The Others",
+    "country": "Spain",
+    "year": 2001,
+    "rating": 7.6,
+    "genre": "Horror",
+    "director": "Alejandro Amen\u00e1bar",
+    "votes": 350000,
+    "decade": 2000
+  },
+  {
+    "title": "The Sea Inside",
+    "country": "Spain",
+    "year": 2004,
+    "rating": 7.9,
+    "genre": "Biography",
+    "director": "Alejandro Amen\u00e1bar",
+    "votes": 90000,
+    "decade": 2000
+  },
+  {
+    "title": "Pan's Labyrinth",
+    "country": "Spain",
+    "year": 2006,
+    "rating": 8.2,
+    "genre": "Fantasy",
+    "director": "Guillermo del Toro",
+    "votes": 720000,
+    "decade": 2000
+  },
+  {
+    "title": "The Devil's Backbone",
+    "country": "Spain",
+    "year": 2001,
+    "rating": 7.8,
+    "genre": "Horror",
+    "director": "Guillermo del Toro",
+    "votes": 130000,
+    "decade": 2000
+  },
+  {
+    "title": "Viridiana",
+    "country": "Spain",
+    "year": 1961,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Luis Bu\u00f1uel",
+    "votes": 23000,
+    "decade": 1960
+  },
+  {
+    "title": "The Exterminating Angel",
+    "country": "Spain",
+    "year": 1962,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Luis Bu\u00f1uel",
+    "votes": 28000,
+    "decade": 1960
+  },
+  {
+    "title": "Belle de Jour",
+    "country": "Spain",
+    "year": 1967,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Luis Bu\u00f1uel",
+    "votes": 42000,
+    "decade": 1960
+  },
+  {
+    "title": "Abre los Ojos",
+    "country": "Spain",
+    "year": 1997,
+    "rating": 7.8,
+    "genre": "Sci-Fi",
+    "director": "Alejandro Amen\u00e1bar",
+    "votes": 130000,
+    "decade": 1990
+  },
+  {
+    "title": "Cell 211",
+    "country": "Spain",
+    "year": 2009,
+    "rating": 7.6,
+    "genre": "Action",
+    "director": "Daniel Monz\u00f3n",
+    "votes": 70000,
+    "decade": 2000
+  },
+  {
+    "title": "Timecrimes",
+    "country": "Spain",
+    "year": 2007,
+    "rating": 7.2,
+    "genre": "Sci-Fi",
+    "director": "Nacho Vigalondo",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "The Third Man",
+    "country": "United Kingdom",
+    "year": 1949,
+    "rating": 8.1,
+    "genre": "Thriller",
+    "director": "Carol Reed",
+    "votes": 175000,
+    "decade": 1940
+  },
+  {
+    "title": "Brief Encounter",
+    "country": "United Kingdom",
+    "year": 1945,
+    "rating": 8.0,
+    "genre": "Romance",
+    "director": "David Lean",
+    "votes": 60000,
+    "decade": 1940
+  },
+  {
+    "title": "Lawrence of Arabia",
+    "country": "United Kingdom",
+    "year": 1962,
+    "rating": 8.3,
+    "genre": "Adventure",
+    "director": "David Lean",
+    "votes": 280000,
+    "decade": 1960
+  },
+  {
+    "title": "A Clockwork Orange",
+    "country": "United Kingdom",
+    "year": 1971,
+    "rating": 8.3,
+    "genre": "Crime",
+    "director": "Stanley Kubrick",
+    "votes": 800000,
+    "decade": 1970
+  },
+  {
+    "title": "Full Metal Jacket",
+    "country": "United Kingdom",
+    "year": 1987,
+    "rating": 8.3,
+    "genre": "War",
+    "director": "Stanley Kubrick",
+    "votes": 810000,
+    "decade": 1980
+  },
+  {
+    "title": "Barry Lyndon",
+    "country": "United Kingdom",
+    "year": 1975,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Stanley Kubrick",
+    "votes": 210000,
+    "decade": 1970
+  },
+  {
+    "title": "Trainspotting",
+    "country": "United Kingdom",
+    "year": 1996,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Danny Boyle",
+    "votes": 710000,
+    "decade": 1990
+  },
+  {
+    "title": "28 Days Later",
+    "country": "United Kingdom",
+    "year": 2002,
+    "rating": 7.6,
+    "genre": "Horror",
+    "director": "Danny Boyle",
+    "votes": 450000,
+    "decade": 2000
+  },
+  {
+    "title": "Slumdog Millionaire",
+    "country": "United Kingdom",
+    "year": 2008,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Danny Boyle",
+    "votes": 850000,
+    "decade": 2000
+  },
+  {
+    "title": "Secrets & Lies",
+    "country": "United Kingdom",
+    "year": 1996,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Mike Leigh",
+    "votes": 37000,
+    "decade": 1990
+  },
+  {
+    "title": "Naked",
+    "country": "United Kingdom",
+    "year": 1993,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Mike Leigh",
+    "votes": 30000,
+    "decade": 1990
+  },
+  {
+    "title": "Four Weddings and a Funeral",
+    "country": "United Kingdom",
+    "year": 1994,
+    "rating": 7.1,
+    "genre": "Comedy",
+    "director": "Mike Newell",
+    "votes": 260000,
+    "decade": 1990
+  },
+  {
+    "title": "Notting Hill",
+    "country": "United Kingdom",
+    "year": 1999,
+    "rating": 7.1,
+    "genre": "Comedy",
+    "director": "Roger Michell",
+    "votes": 325000,
+    "decade": 1990
+  },
+  {
+    "title": "Kes",
+    "country": "United Kingdom",
+    "year": 1969,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Ken Loach",
+    "votes": 35000,
+    "decade": 1960
+  },
+  {
+    "title": "I, Daniel Blake",
+    "country": "United Kingdom",
+    "year": 2016,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Ken Loach",
+    "votes": 95000,
+    "decade": 2010
+  },
+  {
+    "title": "The Crying Game",
+    "country": "United Kingdom",
+    "year": 1992,
+    "rating": 7.3,
+    "genre": "Thriller",
+    "director": "Neil Jordan",
+    "votes": 56000,
+    "decade": 1990
+  },
+  {
+    "title": "Withnail and I",
+    "country": "United Kingdom",
+    "year": 1987,
+    "rating": 7.7,
+    "genre": "Comedy",
+    "director": "Bruce Robinson",
+    "votes": 65000,
+    "decade": 1980
+  },
+  {
+    "title": "Lock, Stock and Two Smoking Barrels",
+    "country": "United Kingdom",
+    "year": 1998,
+    "rating": 8.2,
+    "genre": "Crime",
+    "director": "Guy Ritchie",
+    "votes": 660000,
+    "decade": 1990
+  },
+  {
+    "title": "Snatch",
+    "country": "United Kingdom",
+    "year": 2000,
+    "rating": 8.3,
+    "genre": "Crime",
+    "director": "Guy Ritchie",
+    "votes": 840000,
+    "decade": 2000
+  },
+  {
+    "title": "In Bruges",
+    "country": "United Kingdom",
+    "year": 2008,
+    "rating": 7.9,
+    "genre": "Crime",
+    "director": "Martin McDonagh",
+    "votes": 500000,
+    "decade": 2000
+  },
+  {
+    "title": "Ashes and Diamonds",
+    "country": "Poland",
+    "year": 1958,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Andrzej Wajda",
+    "votes": 25000,
+    "decade": 1950
+  },
+  {
+    "title": "Kanal",
+    "country": "Poland",
+    "year": 1957,
+    "rating": 7.9,
+    "genre": "War",
+    "director": "Andrzej Wajda",
+    "votes": 15000,
+    "decade": 1950
+  },
+  {
+    "title": "The Double Life of V\u00e9ronique",
+    "country": "Poland",
+    "year": 1991,
+    "rating": 7.7,
+    "genre": "Mystery",
+    "director": "Krzysztof Kie\u015blowski",
+    "votes": 65000,
+    "decade": 1990
+  },
+  {
+    "title": "Three Colours: Blue",
+    "country": "Poland",
+    "year": 1993,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Krzysztof Kie\u015blowski",
+    "votes": 100000,
+    "decade": 1990
+  },
+  {
+    "title": "Three Colours: White",
+    "country": "Poland",
+    "year": 1994,
+    "rating": 7.5,
+    "genre": "Comedy",
+    "director": "Krzysztof Kie\u015blowski",
+    "votes": 68000,
+    "decade": 1990
+  },
+  {
+    "title": "Three Colours: Red",
+    "country": "Poland",
+    "year": 1994,
+    "rating": 8.1,
+    "genre": "Mystery",
+    "director": "Krzysztof Kie\u015blowski",
+    "votes": 120000,
+    "decade": 1990
+  },
+  {
+    "title": "Ida",
+    "country": "Poland",
+    "year": 2013,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Pawel Pawlikowski",
+    "votes": 90000,
+    "decade": 2010
+  },
+  {
+    "title": "Cold War",
+    "country": "Poland",
+    "year": 2018,
+    "rating": 7.6,
+    "genre": "Romance",
+    "director": "Pawel Pawlikowski",
+    "votes": 80000,
+    "decade": 2010
+  },
+  {
+    "title": "Knife in the Water",
+    "country": "Poland",
+    "year": 1962,
+    "rating": 7.6,
+    "genre": "Thriller",
+    "director": "Roman Polanski",
+    "votes": 28000,
+    "decade": 1960
+  },
+  {
+    "title": "Loving Vincent",
+    "country": "Poland",
+    "year": 2017,
+    "rating": 7.8,
+    "genre": "Animation",
+    "director": "Dorota Kobiela",
+    "votes": 115000,
+    "decade": 2010
+  },
+  {
+    "title": "Stalker",
+    "country": "Russia",
+    "year": 1979,
+    "rating": 8.1,
+    "genre": "Sci-Fi",
+    "director": "Andrei Tarkovsky",
+    "votes": 140000,
+    "decade": 1970
+  },
+  {
+    "title": "Solaris",
+    "country": "Russia",
+    "year": 1972,
+    "rating": 8.1,
+    "genre": "Sci-Fi",
+    "director": "Andrei Tarkovsky",
+    "votes": 130000,
+    "decade": 1970
+  },
+  {
+    "title": "Andrei Rublev",
+    "country": "Russia",
+    "year": 1966,
+    "rating": 8.1,
+    "genre": "History",
+    "director": "Andrei Tarkovsky",
+    "votes": 80000,
+    "decade": 1960
+  },
+  {
+    "title": "The Mirror",
+    "country": "Russia",
+    "year": 1975,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Andrei Tarkovsky",
+    "votes": 65000,
+    "decade": 1970
+  },
+  {
+    "title": "Ivan's Childhood",
+    "country": "Russia",
+    "year": 1962,
+    "rating": 8.1,
+    "genre": "War",
+    "director": "Andrei Tarkovsky",
+    "votes": 35000,
+    "decade": 1960
+  },
+  {
+    "title": "Come and See",
+    "country": "Russia",
+    "year": 1985,
+    "rating": 8.4,
+    "genre": "War",
+    "director": "Elem Klimov",
+    "votes": 155000,
+    "decade": 1980
+  },
+  {
+    "title": "Leviathan",
+    "country": "Russia",
+    "year": 2014,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Andrey Zvyagintsev",
+    "votes": 75000,
+    "decade": 2010
+  },
+  {
+    "title": "Loveless",
+    "country": "Russia",
+    "year": 2017,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Andrey Zvyagintsev",
+    "votes": 50000,
+    "decade": 2010
+  },
+  {
+    "title": "The Return",
+    "country": "Russia",
+    "year": 2003,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Andrey Zvyagintsev",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "Elena",
+    "country": "Russia",
+    "year": 2011,
+    "rating": 7.4,
+    "genre": "Thriller",
+    "director": "Andrey Zvyagintsev",
+    "votes": 25000,
+    "decade": 2010
+  },
+  {
+    "title": "Battleship Potemkin",
+    "country": "Russia",
+    "year": 1925,
+    "rating": 7.9,
+    "genre": "History",
+    "director": "Sergei Eisenstein",
+    "votes": 68000,
+    "decade": 1920
+  },
+  {
+    "title": "Alexander Nevsky",
+    "country": "Russia",
+    "year": 1938,
+    "rating": 7.5,
+    "genre": "History",
+    "director": "Sergei Eisenstein",
+    "votes": 21000,
+    "decade": 1930
+  },
+  {
+    "title": "The White Ribbon",
+    "country": "Austria",
+    "year": 2009,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Michael Haneke",
+    "votes": 110000,
+    "decade": 2000
+  },
+  {
+    "title": "Amour",
+    "country": "Austria",
+    "year": 2012,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Michael Haneke",
+    "votes": 130000,
+    "decade": 2010
+  },
+  {
+    "title": "Hidden",
+    "country": "Austria",
+    "year": 2005,
+    "rating": 7.5,
+    "genre": "Thriller",
+    "director": "Michael Haneke",
+    "votes": 95000,
+    "decade": 2000
+  },
+  {
+    "title": "Happy End",
+    "country": "Austria",
+    "year": 2017,
+    "rating": 6.7,
+    "genre": "Drama",
+    "director": "Michael Haneke",
+    "votes": 20000,
+    "decade": 2010
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "country": "Germany",
+    "year": 2014,
+    "rating": 8.1,
+    "genre": "Comedy",
+    "director": "Wes Anderson",
+    "votes": 900000,
+    "decade": 2010
+  },
+  {
+    "title": "The Conformist",
+    "country": "Italy",
+    "year": 1970,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Bernardo Bertolucci",
+    "votes": 40000,
+    "decade": 1970
+  },
+  {
+    "title": "Rosetta",
+    "country": "Belgium",
+    "year": 1999,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Dardenne Brothers",
+    "votes": 18000,
+    "decade": 1990
+  },
+  {
+    "title": "The Son",
+    "country": "Belgium",
+    "year": 2002,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Dardenne Brothers",
+    "votes": 22000,
+    "decade": 2000
+  },
+  {
+    "title": "L'Enfant",
+    "country": "Belgium",
+    "year": 2005,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Dardenne Brothers",
+    "votes": 30000,
+    "decade": 2000
+  },
+  {
+    "title": "The Kid with a Bike",
+    "country": "Belgium",
+    "year": 2011,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Dardenne Brothers",
+    "votes": 40000,
+    "decade": 2010
+  },
+  {
+    "title": "Two Days, One Night",
+    "country": "Belgium",
+    "year": 2014,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Dardenne Brothers",
+    "votes": 50000,
+    "decade": 2010
+  },
+  {
+    "title": "Man Bites Dog",
+    "country": "Belgium",
+    "year": 1992,
+    "rating": 7.6,
+    "genre": "Crime",
+    "director": "R\u00e9my Belvaux",
+    "votes": 40000,
+    "decade": 1990
+  },
+  {
+    "title": "Bullhead",
+    "country": "Belgium",
+    "year": 2011,
+    "rating": 7.2,
+    "genre": "Crime",
+    "director": "Micha\u00ebl R. Roskam",
+    "votes": 35000,
+    "decade": 2010
+  },
+  {
+    "title": "The Celebration",
+    "country": "Denmark",
+    "year": 1998,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Thomas Vinterberg",
+    "votes": 68000,
+    "decade": 1990
+  },
+  {
+    "title": "Melancholia",
+    "country": "Denmark",
+    "year": 2011,
+    "rating": 7.1,
+    "genre": "Sci-Fi",
+    "director": "Lars von Trier",
+    "votes": 220000,
+    "decade": 2010
+  },
+  {
+    "title": "Cach\u00e9",
+    "country": "France",
+    "year": 2005,
+    "rating": 7.5,
+    "genre": "Thriller",
+    "director": "Michael Haneke",
+    "votes": 95000,
+    "decade": 2000
+  },
+  {
+    "title": "4 Months, 3 Weeks and 2 Days",
+    "country": "Romania",
+    "year": 2007,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Cristian Mungiu",
+    "votes": 80000,
+    "decade": 2000
+  },
+  {
+    "title": "Beyond the Hills",
+    "country": "Romania",
+    "year": 2012,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Cristian Mungiu",
+    "votes": 20000,
+    "decade": 2010
+  },
+  {
+    "title": "Graduation",
+    "country": "Romania",
+    "year": 2016,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Cristian Mungiu",
+    "votes": 25000,
+    "decade": 2010
+  },
+  {
+    "title": "The Death of Mr. Lazarescu",
+    "country": "Romania",
+    "year": 2005,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Cristi Puiu",
+    "votes": 20000,
+    "decade": 2000
+  },
+  {
+    "title": "Police, Adjective",
+    "country": "Romania",
+    "year": 2009,
+    "rating": 7.3,
+    "genre": "Crime",
+    "director": "Corneliu Porumboiu",
+    "votes": 14000,
+    "decade": 2000
+  },
+  {
+    "title": "The Firemen's Ball",
+    "country": "Czech Republic",
+    "year": 1967,
+    "rating": 7.5,
+    "genre": "Comedy",
+    "director": "Milo\u0161 Forman",
+    "votes": 22000,
+    "decade": 1960
+  },
+  {
+    "title": "Closely Watched Trains",
+    "country": "Czech Republic",
+    "year": 1966,
+    "rating": 7.9,
+    "genre": "Comedy",
+    "director": "Ji\u0159\u00ed Menzel",
+    "votes": 22000,
+    "decade": 1960
+  },
+  {
+    "title": "Kolya",
+    "country": "Czech Republic",
+    "year": 1996,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Jan Sv\u011br\u00e1k",
+    "votes": 38000,
+    "decade": 1990
+  },
+  {
+    "title": "Dark Blue World",
+    "country": "Czech Republic",
+    "year": 2001,
+    "rating": 7.2,
+    "genre": "War",
+    "director": "Jan Sv\u011br\u00e1k",
+    "votes": 18000,
+    "decade": 2000
+  },
+  {
+    "title": "Son of Saul",
+    "country": "Hungary",
+    "year": 2015,
+    "rating": 7.5,
+    "genre": "War",
+    "director": "L\u00e1szl\u00f3 Nemes",
+    "votes": 55000,
+    "decade": 2010
+  },
+  {
+    "title": "On Body and Soul",
+    "country": "Hungary",
+    "year": 2017,
+    "rating": 7.9,
+    "genre": "Romance",
+    "director": "Ildik\u00f3 Enyedi",
+    "votes": 40000,
+    "decade": 2010
+  },
+  {
+    "title": "Mephisto",
+    "country": "Hungary",
+    "year": 1981,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Istv\u00e1n Szab\u00f3",
+    "votes": 14000,
+    "decade": 1980
+  },
+  {
+    "title": "Kontroll",
+    "country": "Hungary",
+    "year": 2003,
+    "rating": 7.5,
+    "genre": "Thriller",
+    "director": "Nimr\u00f3d Antal",
+    "votes": 35000,
+    "decade": 2000
+  },
+  {
+    "title": "Landscape in the Mist",
+    "country": "Greece",
+    "year": 1988,
+    "rating": 8.2,
+    "genre": "Drama",
+    "director": "Theo Angelopoulos",
+    "votes": 18000,
+    "decade": 1980
+  },
+  {
+    "title": "Dogtooth",
+    "country": "Greece",
+    "year": 2009,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Yorgos Lanthimos",
+    "votes": 130000,
+    "decade": 2000
+  },
+  {
+    "title": "Alps",
+    "country": "Greece",
+    "year": 2011,
+    "rating": 6.8,
+    "genre": "Drama",
+    "director": "Yorgos Lanthimos",
+    "votes": 22000,
+    "decade": 2010
+  },
+  {
+    "title": "The Weeping Meadow",
+    "country": "Greece",
+    "year": 2004,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Theo Angelopoulos",
+    "votes": 8000,
+    "decade": 2000
+  },
+  {
+    "title": "Embrace of the Serpent",
+    "country": "Norway",
+    "year": 2015,
+    "rating": 7.7,
+    "genre": "Adventure",
+    "director": "Ciro Guerra",
+    "votes": 40000,
+    "decade": 2010
+  },
+  {
+    "title": "The Worst Person in the World",
+    "country": "Norway",
+    "year": 2021,
+    "rating": 7.8,
+    "genre": "Romance",
+    "director": "Joachim Trier",
+    "votes": 95000,
+    "decade": 2020
+  },
+  {
+    "title": "Oslo, August 31st",
+    "country": "Norway",
+    "year": 2011,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Joachim Trier",
+    "votes": 30000,
+    "decade": 2010
+  },
+  {
+    "title": "Reprise",
+    "country": "Norway",
+    "year": 2006,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Joachim Trier",
+    "votes": 22000,
+    "decade": 2000
+  },
+  {
+    "title": "The Promised Land",
+    "country": "Poland",
+    "year": 1975,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Andrzej Wajda",
+    "votes": 14000,
+    "decade": 1970
+  },
+  {
+    "title": "Man of Marble",
+    "country": "Poland",
+    "year": 1977,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Andrzej Wajda",
+    "votes": 12000,
+    "decade": 1970
+  },
+  {
+    "title": "Winter Sleep",
+    "country": "Turkey",
+    "year": 2014,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Nuri Bilge Ceylan",
+    "votes": 95000,
+    "decade": 2010
+  },
+  {
+    "title": "Once Upon a Time in Anatolia",
+    "country": "Turkey",
+    "year": 2011,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Nuri Bilge Ceylan",
+    "votes": 45000,
+    "decade": 2010
+  },
+  {
+    "title": "Distant",
+    "country": "Turkey",
+    "year": 2002,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Nuri Bilge Ceylan",
+    "votes": 25000,
+    "decade": 2000
+  },
+  {
+    "title": "Three Monkeys",
+    "country": "Turkey",
+    "year": 2008,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Nuri Bilge Ceylan",
+    "votes": 25000,
+    "decade": 2000
+  },
+  {
+    "title": "The Turin Horse",
+    "country": "Hungary",
+    "year": 2011,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "B\u00e9la Tarr",
+    "votes": 20000,
+    "decade": 2010
+  },
+  {
+    "title": "Satantango",
+    "country": "Hungary",
+    "year": 1994,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "B\u00e9la Tarr",
+    "votes": 20000,
+    "decade": 1990
+  },
+  {
+    "title": "The Brand New Testament",
+    "country": "Belgium",
+    "year": 2015,
+    "rating": 7.0,
+    "genre": "Fantasy",
+    "director": "Jaco Van Dormael",
+    "votes": 35000,
+    "decade": 2010
+  },
+  {
+    "title": "Mr. Nobody",
+    "country": "Belgium",
+    "year": 2009,
+    "rating": 7.8,
+    "genre": "Sci-Fi",
+    "director": "Jaco Van Dormael",
+    "votes": 230000,
+    "decade": 2000
+  },
+  {
+    "title": "Cache",
+    "country": "France",
+    "year": 2005,
+    "rating": 7.5,
+    "genre": "Thriller",
+    "director": "Michael Haneke",
+    "votes": 95000,
+    "decade": 2000
+  },
+  {
+    "title": "Mustang",
+    "country": "Turkey",
+    "year": 2015,
+    "rating": 7.9,
+    "genre": "Drama",
+    "director": "Deniz Gamze Erg\u00fcven",
+    "votes": 35000,
+    "decade": 2010
+  },
+  {
+    "title": "The Assassin",
+    "country": "France",
+    "year": 2013,
+    "rating": 6.7,
+    "genre": "Crime",
+    "director": "Olivier Assayas",
+    "votes": 18000,
+    "decade": 2010
+  },
+  {
+    "title": "Summer Hours",
+    "country": "France",
+    "year": 2008,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Olivier Assayas",
+    "votes": 14000,
+    "decade": 2000
+  },
+  {
+    "title": "I Vitelloni",
+    "country": "Italy",
+    "year": 1953,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Federico Fellini",
+    "votes": 28000,
+    "decade": 1950
+  },
+  {
+    "title": "Stromboli",
+    "country": "Italy",
+    "year": 1950,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Roberto Rossellini",
+    "votes": 7000,
+    "decade": 1950
+  },
+  {
+    "title": "Umberto D.",
+    "country": "Italy",
+    "year": 1952,
+    "rating": 8.2,
+    "genre": "Drama",
+    "director": "Vittorio De Sica",
+    "votes": 30000,
+    "decade": 1950
+  },
+  {
+    "title": "La Terra Trema",
+    "country": "Italy",
+    "year": 1948,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Luchino Visconti",
+    "votes": 7000,
+    "decade": 1940
+  },
+  {
+    "title": "The Leopard",
+    "country": "Italy",
+    "year": 1963,
+    "rating": 7.9,
+    "genre": "History",
+    "director": "Luchino Visconti",
+    "votes": 45000,
+    "decade": 1960
+  },
+  {
+    "title": "Death in Venice",
+    "country": "Italy",
+    "year": 1971,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Luchino Visconti",
+    "votes": 25000,
+    "decade": 1970
+  },
+  {
+    "title": "My Neighbour Totoro",
+    "country": "France",
+    "year": 1988,
+    "rating": 8.1,
+    "genre": "Animation",
+    "director": "Hayao Miyazaki",
+    "votes": 500000,
+    "decade": 1980
+  },
+  {
+    "title": "Atlantics",
+    "country": "France",
+    "year": 2019,
+    "rating": 6.7,
+    "genre": "Drama",
+    "director": "Mati Diop",
+    "votes": 15000,
+    "decade": 2010
+  },
+  {
+    "title": "Parasite",
+    "country": "France",
+    "year": 2019,
+    "rating": 8.5,
+    "genre": "Thriller",
+    "director": "Bong Joon-ho",
+    "votes": 900000,
+    "decade": 2010
+  },
+  {
+    "title": "Portrait of a Lady on Fire",
+    "country": "France",
+    "year": 2019,
+    "rating": 8.1,
+    "genre": "Romance",
+    "director": "C\u00e9line Sciamma",
+    "votes": 155000,
+    "decade": 2010
+  },
+  {
+    "title": "Tomboy",
+    "country": "France",
+    "year": 2011,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "C\u00e9line Sciamma",
+    "votes": 35000,
+    "decade": 2010
+  },
+  {
+    "title": "Petite Maman",
+    "country": "France",
+    "year": 2021,
+    "rating": 7.1,
+    "genre": "Drama",
+    "director": "C\u00e9line Sciamma",
+    "votes": 30000,
+    "decade": 2020
+  },
+  {
+    "title": "Rust and Bone",
+    "country": "France",
+    "year": 2012,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Jacques Audiard",
+    "votes": 85000,
+    "decade": 2010
+  },
+  {
+    "title": "A Separation",
+    "country": "Germany",
+    "year": 2011,
+    "rating": 8.3,
+    "genre": "Drama",
+    "director": "Asghar Farhadi",
+    "votes": 300000,
+    "decade": 2010
+  },
+  {
+    "title": "Elle",
+    "country": "France",
+    "year": 2016,
+    "rating": 7.2,
+    "genre": "Thriller",
+    "director": "Paul Verhoeven",
+    "votes": 115000,
+    "decade": 2010
+  },
+  {
+    "title": "Black Book",
+    "country": "Netherlands",
+    "year": 2006,
+    "rating": 7.7,
+    "genre": "Thriller",
+    "director": "Paul Verhoeven",
+    "votes": 90000,
+    "decade": 2000
+  },
+  {
+    "title": "Turkish Delight",
+    "country": "Netherlands",
+    "year": 1973,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Paul Verhoeven",
+    "votes": 12000,
+    "decade": 1970
+  },
+  {
+    "title": "The Vanishing",
+    "country": "Netherlands",
+    "year": 1988,
+    "rating": 7.9,
+    "genre": "Thriller",
+    "director": "George Sluizer",
+    "votes": 50000,
+    "decade": 1980
+  },
+  {
+    "title": "The Broken Circle Breakdown",
+    "country": "Belgium",
+    "year": 2012,
+    "rating": 8.1,
+    "genre": "Romance",
+    "director": "Felix van Groeningen",
+    "votes": 35000,
+    "decade": 2010
+  },
+  {
+    "title": "Force Majeure",
+    "country": "Sweden",
+    "year": 2014,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Ruben \u00d6stlund",
+    "votes": 75000,
+    "decade": 2010
+  },
+  {
+    "title": "Elvira Madigan",
+    "country": "Sweden",
+    "year": 1967,
+    "rating": 7.3,
+    "genre": "Romance",
+    "director": "Bo Widerberg",
+    "votes": 9000,
+    "decade": 1960
+  },
+  {
+    "title": "Together",
+    "country": "Sweden",
+    "year": 2000,
+    "rating": 7.7,
+    "genre": "Comedy",
+    "director": "Lukas Moodysson",
+    "votes": 28000,
+    "decade": 2000
+  },
+  {
+    "title": "Show Me Love",
+    "country": "Sweden",
+    "year": 1998,
+    "rating": 7.7,
+    "genre": "Romance",
+    "director": "Lukas Moodysson",
+    "votes": 26000,
+    "decade": 1990
+  },
+  {
+    "title": "Lilya 4-ever",
+    "country": "Sweden",
+    "year": 2002,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Lukas Moodysson",
+    "votes": 45000,
+    "decade": 2000
+  },
+  {
+    "title": "Festen",
+    "country": "Denmark",
+    "year": 1998,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Thomas Vinterberg",
+    "votes": 68000,
+    "decade": 1990
+  },
+  {
+    "title": "The Idiots",
+    "country": "Denmark",
+    "year": 1998,
+    "rating": 7.0,
+    "genre": "Drama",
+    "director": "Lars von Trier",
+    "votes": 32000,
+    "decade": 1990
+  },
+  {
+    "title": "Nymphomaniac: Vol. I",
+    "country": "Denmark",
+    "year": 2013,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Lars von Trier",
+    "votes": 120000,
+    "decade": 2010
+  },
+  {
+    "title": "Nymphomaniac: Vol. II",
+    "country": "Denmark",
+    "year": 2013,
+    "rating": 6.9,
+    "genre": "Drama",
+    "director": "Lars von Trier",
+    "votes": 90000,
+    "decade": 2010
+  },
+  {
+    "title": "The House That Jack Built",
+    "country": "Denmark",
+    "year": 2018,
+    "rating": 7.1,
+    "genre": "Thriller",
+    "director": "Lars von Trier",
+    "votes": 130000,
+    "decade": 2010
+  },
+  {
+    "title": "Fargo",
+    "country": "United Kingdom",
+    "year": 1996,
+    "rating": 8.1,
+    "genre": "Crime",
+    "director": "Joel Coen",
+    "votes": 750000,
+    "decade": 1990
+  },
+  {
+    "title": "The Secret in Their Eyes",
+    "country": "Spain",
+    "year": 2009,
+    "rating": 8.2,
+    "genre": "Crime",
+    "director": "Juan Jos\u00e9 Campanella",
+    "votes": 300000,
+    "decade": 2000
+  },
+  {
+    "title": "The Perfume: The Story of a Murderer",
+    "country": "Germany",
+    "year": 2006,
+    "rating": 7.5,
+    "genre": "Crime",
+    "director": "Tom Tykwer",
+    "votes": 260000,
+    "decade": 2000
+  },
+  {
+    "title": "Wristcutters: A Love Story",
+    "country": "United Kingdom",
+    "year": 2006,
+    "rating": 7.2,
+    "genre": "Comedy",
+    "director": "Goran Dukic",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "Waltz with Bashir",
+    "country": "Germany",
+    "year": 2008,
+    "rating": 7.9,
+    "genre": "Animation",
+    "director": "Ari Folman",
+    "votes": 90000,
+    "decade": 2000
+  },
+  {
+    "title": "Incendies",
+    "country": "France",
+    "year": 2010,
+    "rating": 8.2,
+    "genre": "Drama",
+    "director": "Denis Villeneuve",
+    "votes": 200000,
+    "decade": 2010
+  },
+  {
+    "title": "Mommy",
+    "country": "France",
+    "year": 2014,
+    "rating": 8.0,
+    "genre": "Drama",
+    "director": "Xavier Dolan",
+    "votes": 145000,
+    "decade": 2010
+  },
+  {
+    "title": "I Killed My Mother",
+    "country": "France",
+    "year": 2009,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Xavier Dolan",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "Laurence Anyways",
+    "country": "France",
+    "year": 2012,
+    "rating": 7.5,
+    "genre": "Romance",
+    "director": "Xavier Dolan",
+    "votes": 40000,
+    "decade": 2010
+  },
+  {
+    "title": "Tom\u00e1s Guti\u00e9rrez Alea film",
+    "country": "Spain",
+    "year": 1994,
+    "rating": 8.0,
+    "genre": "Comedy",
+    "director": "Tom\u00e1s Guti\u00e9rrez Alea",
+    "votes": 25000,
+    "decade": 1990
+  },
+  {
+    "title": "Naked",
+    "country": "United Kingdom",
+    "year": 1993,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Mike Leigh",
+    "votes": 30000,
+    "decade": 1990
+  },
+  {
+    "title": "The Wind That Shakes the Barley",
+    "country": "United Kingdom",
+    "year": 2006,
+    "rating": 7.5,
+    "genre": "History",
+    "director": "Ken Loach",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "Belfast",
+    "country": "United Kingdom",
+    "year": 2021,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Kenneth Branagh",
+    "votes": 100000,
+    "decade": 2020
+  },
+  {
+    "title": "About Time",
+    "country": "United Kingdom",
+    "year": 2013,
+    "rating": 7.8,
+    "genre": "Romance",
+    "director": "Richard Curtis",
+    "votes": 460000,
+    "decade": 2010
+  },
+  {
+    "title": "Pride",
+    "country": "United Kingdom",
+    "year": 2014,
+    "rating": 7.9,
+    "genre": "Comedy",
+    "director": "Matthew Warchus",
+    "votes": 100000,
+    "decade": 2010
+  },
+  {
+    "title": "Wild",
+    "country": "France",
+    "year": 2012,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Jean-Marc Vall\u00e9e",
+    "votes": 30000,
+    "decade": 2010
+  },
+  {
+    "title": "Irr\u00e9versible",
+    "country": "France",
+    "year": 2002,
+    "rating": 7.4,
+    "genre": "Crime",
+    "director": "Gaspar No\u00e9",
+    "votes": 155000,
+    "decade": 2000
+  },
+  {
+    "title": "Enter the Void",
+    "country": "France",
+    "year": 2009,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Gaspar No\u00e9",
+    "votes": 75000,
+    "decade": 2000
+  },
+  {
+    "title": "I Stand Alone",
+    "country": "France",
+    "year": 1998,
+    "rating": 7.5,
+    "genre": "Crime",
+    "director": "Gaspar No\u00e9",
+    "votes": 30000,
+    "decade": 1990
+  },
+  {
+    "title": "Y Tu Mam\u00e1 Tambi\u00e9n",
+    "country": "Spain",
+    "year": 2001,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Alfonso Cuar\u00f3n",
+    "votes": 230000,
+    "decade": 2000
+  },
+  {
+    "title": "Moonrise Kingdom",
+    "country": "France",
+    "year": 2012,
+    "rating": 7.8,
+    "genre": "Comedy",
+    "director": "Wes Anderson",
+    "votes": 500000,
+    "decade": 2010
+  },
+  {
+    "title": "Incendies",
+    "country": "France",
+    "year": 2010,
+    "rating": 8.2,
+    "genre": "Drama",
+    "director": "Denis Villeneuve",
+    "votes": 200000,
+    "decade": 2010
+  },
+  {
+    "title": "The Father",
+    "country": "United Kingdom",
+    "year": 2020,
+    "rating": 8.2,
+    "genre": "Drama",
+    "director": "Florian Zeller",
+    "votes": 220000,
+    "decade": 2020
+  },
+  {
+    "title": "Never Look Away",
+    "country": "Germany",
+    "year": 2018,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Florian Henckel von Donnersmarck",
+    "votes": 60000,
+    "decade": 2010
+  },
+  {
+    "title": "The Reader",
+    "country": "Germany",
+    "year": 2008,
+    "rating": 7.6,
+    "genre": "Romance",
+    "director": "Stephen Daldry",
+    "votes": 290000,
+    "decade": 2000
+  },
+  {
+    "title": "Good Bye Lenin!",
+    "country": "Germany",
+    "year": 2003,
+    "rating": 7.7,
+    "genre": "Comedy",
+    "director": "Wolfgang Becker",
+    "votes": 200000,
+    "decade": 2000
+  },
+  {
+    "title": "Contre-courant",
+    "country": "France",
+    "year": 2013,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Louis Garrel",
+    "votes": 10000,
+    "decade": 2010
+  },
+  {
+    "title": "Beau Travail",
+    "country": "France",
+    "year": 1999,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Claire Denis",
+    "votes": 18000,
+    "decade": 1990
+  },
+  {
+    "title": "35 Shots of Rum",
+    "country": "France",
+    "year": 2008,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Claire Denis",
+    "votes": 12000,
+    "decade": 2000
+  },
+  {
+    "title": "Trouble Every Day",
+    "country": "France",
+    "year": 2001,
+    "rating": 6.3,
+    "genre": "Horror",
+    "director": "Claire Denis",
+    "votes": 10000,
+    "decade": 2000
+  },
+  {
+    "title": "Midnight in Paris",
+    "country": "Spain",
+    "year": 2011,
+    "rating": 7.7,
+    "genre": "Comedy",
+    "director": "Woody Allen",
+    "votes": 530000,
+    "decade": 2010
+  },
+  {
+    "title": "Vicky Cristina Barcelona",
+    "country": "Spain",
+    "year": 2008,
+    "rating": 7.2,
+    "genre": "Romance",
+    "director": "Woody Allen",
+    "votes": 270000,
+    "decade": 2000
+  },
+  {
+    "title": "Match Point",
+    "country": "United Kingdom",
+    "year": 2005,
+    "rating": 7.6,
+    "genre": "Thriller",
+    "director": "Woody Allen",
+    "votes": 370000,
+    "decade": 2000
+  },
+  {
+    "title": "Eden Lake",
+    "country": "United Kingdom",
+    "year": 2008,
+    "rating": 6.8,
+    "genre": "Horror",
+    "director": "James Watkins",
+    "votes": 80000,
+    "decade": 2000
+  },
+  {
+    "title": "Tyrannosaur",
+    "country": "United Kingdom",
+    "year": 2011,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Paddy Considine",
+    "votes": 25000,
+    "decade": 2010
+  },
+  {
+    "title": "Fish Tank",
+    "country": "United Kingdom",
+    "year": 2009,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Andrea Arnold",
+    "votes": 30000,
+    "decade": 2000
+  },
+  {
+    "title": "American Honey",
+    "country": "United Kingdom",
+    "year": 2016,
+    "rating": 7.1,
+    "genre": "Drama",
+    "director": "Andrea Arnold",
+    "votes": 35000,
+    "decade": 2010
+  },
+  {
+    "title": "Under the Skin",
+    "country": "United Kingdom",
+    "year": 2013,
+    "rating": 6.3,
+    "genre": "Sci-Fi",
+    "director": "Jonathan Glazer",
+    "votes": 130000,
+    "decade": 2010
+  },
+  {
+    "title": "Sexy Beast",
+    "country": "United Kingdom",
+    "year": 2000,
+    "rating": 7.3,
+    "genre": "Crime",
+    "director": "Jonathan Glazer",
+    "votes": 80000,
+    "decade": 2000
+  },
+  {
+    "title": "The Selfish Giant",
+    "country": "United Kingdom",
+    "year": 2013,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Clio Barnard",
+    "votes": 15000,
+    "decade": 2010
+  },
+  {
+    "title": "My Beautiful Laundrette",
+    "country": "United Kingdom",
+    "year": 1985,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Stephen Frears",
+    "votes": 15000,
+    "decade": 1980
+  },
+  {
+    "title": "The Grifters",
+    "country": "United Kingdom",
+    "year": 1990,
+    "rating": 7.6,
+    "genre": "Crime",
+    "director": "Stephen Frears",
+    "votes": 50000,
+    "decade": 1990
+  },
+  {
+    "title": "High Fidelity",
+    "country": "United Kingdom",
+    "year": 2000,
+    "rating": 7.5,
+    "genre": "Comedy",
+    "director": "Stephen Frears",
+    "votes": 260000,
+    "decade": 2000
+  },
+  {
+    "title": "Gosford Park",
+    "country": "United Kingdom",
+    "year": 2001,
+    "rating": 7.3,
+    "genre": "Mystery",
+    "director": "Robert Altman",
+    "votes": 130000,
+    "decade": 2000
+  },
+  {
+    "title": "Atonement",
+    "country": "United Kingdom",
+    "year": 2007,
+    "rating": 7.8,
+    "genre": "Romance",
+    "director": "Joe Wright",
+    "votes": 345000,
+    "decade": 2000
+  },
+  {
+    "title": "The Hours",
+    "country": "United Kingdom",
+    "year": 2002,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Stephen Daldry",
+    "votes": 230000,
+    "decade": 2000
+  },
+  {
+    "title": "Billy Elliot",
+    "country": "United Kingdom",
+    "year": 2000,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Stephen Daldry",
+    "votes": 200000,
+    "decade": 2000
+  },
+  {
+    "title": "Ratcatcher",
+    "country": "United Kingdom",
+    "year": 1999,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Lynne Ramsay",
+    "votes": 8000,
+    "decade": 1990
+  },
+  {
+    "title": "We Need to Talk About Kevin",
+    "country": "United Kingdom",
+    "year": 2011,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Lynne Ramsay",
+    "votes": 160000,
+    "decade": 2010
+  },
+  {
+    "title": "You Were Never Really Here",
+    "country": "United Kingdom",
+    "year": 2017,
+    "rating": 7.1,
+    "genre": "Thriller",
+    "director": "Lynne Ramsay",
+    "votes": 80000,
+    "decade": 2010
+  },
+  {
+    "title": "Submarine",
+    "country": "United Kingdom",
+    "year": 2010,
+    "rating": 7.3,
+    "genre": "Comedy",
+    "director": "Richard Ayoade",
+    "votes": 130000,
+    "decade": 2010
+  },
+  {
+    "title": "The Double",
+    "country": "United Kingdom",
+    "year": 2013,
+    "rating": 6.9,
+    "genre": "Comedy",
+    "director": "Richard Ayoade",
+    "votes": 70000,
+    "decade": 2010
+  },
+  {
+    "title": "Filth",
+    "country": "United Kingdom",
+    "year": 2013,
+    "rating": 7.5,
+    "genre": "Crime",
+    "director": "Jon S. Baird",
+    "votes": 150000,
+    "decade": 2010
+  },
+  {
+    "title": "The Inbetweeners Movie",
+    "country": "United Kingdom",
+    "year": 2011,
+    "rating": 7.2,
+    "genre": "Comedy",
+    "director": "Ben Palmer",
+    "votes": 95000,
+    "decade": 2010
+  },
+  {
+    "title": "The Full Monty",
+    "country": "United Kingdom",
+    "year": 1997,
+    "rating": 7.2,
+    "genre": "Comedy",
+    "director": "Peter Cattaneo",
+    "votes": 160000,
+    "decade": 1990
+  },
+  {
+    "title": "Brassed Off",
+    "country": "United Kingdom",
+    "year": 1996,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Mark Herman",
+    "votes": 35000,
+    "decade": 1990
+  },
+  {
+    "title": "Little Voice",
+    "country": "United Kingdom",
+    "year": 1998,
+    "rating": 7.2,
+    "genre": "Comedy",
+    "director": "Mark Herman",
+    "votes": 22000,
+    "decade": 1990
+  },
+  {
+    "title": "Calendar Girls",
+    "country": "United Kingdom",
+    "year": 2003,
+    "rating": 6.9,
+    "genre": "Comedy",
+    "director": "Nigel Cole",
+    "votes": 48000,
+    "decade": 2000
+  },
+  {
+    "title": "Made in Dagenham",
+    "country": "United Kingdom",
+    "year": 2010,
+    "rating": 7.1,
+    "genre": "History",
+    "director": "Nigel Cole",
+    "votes": 40000,
+    "decade": 2010
+  },
+  {
+    "title": "An Education",
+    "country": "United Kingdom",
+    "year": 2009,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Lone Scherfig",
+    "votes": 120000,
+    "decade": 2000
+  },
+  {
+    "title": "One Day",
+    "country": "United Kingdom",
+    "year": 2011,
+    "rating": 6.8,
+    "genre": "Romance",
+    "director": "Lone Scherfig",
+    "votes": 100000,
+    "decade": 2010
+  },
+  {
+    "title": "Nowhere Boy",
+    "country": "United Kingdom",
+    "year": 2009,
+    "rating": 7.1,
+    "genre": "Biography",
+    "director": "Sam Taylor-Johnson",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "The Imitation Game",
+    "country": "United Kingdom",
+    "year": 2014,
+    "rating": 8.0,
+    "genre": "History",
+    "director": "Morten Tyldum",
+    "votes": 900000,
+    "decade": 2010
+  },
+  {
+    "title": "Suffragette",
+    "country": "United Kingdom",
+    "year": 2015,
+    "rating": 6.9,
+    "genre": "History",
+    "director": "Sarah Gavron",
+    "votes": 80000,
+    "decade": 2010
+  },
+  {
+    "title": "Pride and Prejudice",
+    "country": "United Kingdom",
+    "year": 2005,
+    "rating": 7.8,
+    "genre": "Romance",
+    "director": "Joe Wright",
+    "votes": 360000,
+    "decade": 2000
+  },
+  {
+    "title": "Shaun of the Dead",
+    "country": "United Kingdom",
+    "year": 2004,
+    "rating": 7.9,
+    "genre": "Horror",
+    "director": "Edgar Wright",
+    "votes": 580000,
+    "decade": 2000
+  },
+  {
+    "title": "Hot Fuzz",
+    "country": "United Kingdom",
+    "year": 2007,
+    "rating": 7.9,
+    "genre": "Crime",
+    "director": "Edgar Wright",
+    "votes": 490000,
+    "decade": 2000
+  },
+  {
+    "title": "Scott Pilgrim vs. the World",
+    "country": "United Kingdom",
+    "year": 2010,
+    "rating": 7.5,
+    "genre": "Action",
+    "director": "Edgar Wright",
+    "votes": 440000,
+    "decade": 2010
+  },
+  {
+    "title": "The World's End",
+    "country": "United Kingdom",
+    "year": 2013,
+    "rating": 7.0,
+    "genre": "Comedy",
+    "director": "Edgar Wright",
+    "votes": 260000,
+    "decade": 2010
+  },
+  {
+    "title": "Paddington",
+    "country": "United Kingdom",
+    "year": 2014,
+    "rating": 7.3,
+    "genre": "Comedy",
+    "director": "Paul King",
+    "votes": 130000,
+    "decade": 2010
+  },
+  {
+    "title": "Paddington 2",
+    "country": "United Kingdom",
+    "year": 2017,
+    "rating": 7.8,
+    "genre": "Comedy",
+    "director": "Paul King",
+    "votes": 170000,
+    "decade": 2010
+  },
+  {
+    "title": "Dunkirk",
+    "country": "United Kingdom",
+    "year": 2017,
+    "rating": 7.9,
+    "genre": "War",
+    "director": "Christopher Nolan",
+    "votes": 770000,
+    "decade": 2010
+  },
+  {
+    "title": "28 Weeks Later",
+    "country": "United Kingdom",
+    "year": 2007,
+    "rating": 7.0,
+    "genre": "Horror",
+    "director": "Juan Carlos Fresnadillo",
+    "votes": 200000,
+    "decade": 2000
+  },
+  {
+    "title": "Control",
+    "country": "United Kingdom",
+    "year": 2007,
+    "rating": 7.7,
+    "genre": "Biography",
+    "director": "Anton Corbijn",
+    "votes": 65000,
+    "decade": 2000
+  },
+  {
+    "title": "Nowhere Boy",
+    "country": "United Kingdom",
+    "year": 2009,
+    "rating": 7.1,
+    "genre": "Biography",
+    "director": "Sam Taylor-Johnson",
+    "votes": 55000,
+    "decade": 2000
+  },
+  {
+    "title": "Irreversible",
+    "country": "France",
+    "year": 2002,
+    "rating": 7.4,
+    "genre": "Crime",
+    "director": "Gaspar Noe",
+    "votes": 155000,
+    "decade": 2000
+  },
+  {
+    "title": "The Perfume: Story of a Murderer",
+    "country": "Germany",
+    "year": 2006,
+    "rating": 7.5,
+    "genre": "Crime",
+    "director": "Tom Tykwer",
+    "votes": 260000,
+    "decade": 2000
+  },
+  {
+    "title": "Nymphomaniac Vol. I",
+    "country": "Denmark",
+    "year": 2013,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Lars von Trier",
+    "votes": 120000,
+    "decade": 2010
+  },
+  {
+    "title": "Funny Games",
+    "country": "Austria",
+    "year": 1997,
+    "rating": 7.5,
+    "genre": "Thriller",
+    "director": "Michael Haneke",
+    "votes": 120000,
+    "decade": 1990
+  },
+  {
+    "title": "Soldier of Orange",
+    "country": "Netherlands",
+    "year": 1977,
+    "rating": 7.6,
+    "genre": "War",
+    "director": "Paul Verhoeven",
+    "votes": 15000,
+    "decade": 1970
+  },
+  {
+    "title": "Spetters",
+    "country": "Netherlands",
+    "year": 1980,
+    "rating": 6.8,
+    "genre": "Drama",
+    "director": "Paul Verhoeven",
+    "votes": 8000,
+    "decade": 1980
+  },
+  {
+    "title": "The Favourite",
+    "country": "Greece",
+    "year": 2018,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Yorgos Lanthimos",
+    "votes": 300000,
+    "decade": 2010
+  },
+  {
+    "title": "Poor Things",
+    "country": "Greece",
+    "year": 2023,
+    "rating": 7.8,
+    "genre": "Fantasy",
+    "director": "Yorgos Lanthimos",
+    "votes": 202347,
+    "decade": 2020
+  },
+  {
+    "title": "Thelma",
+    "country": "Norway",
+    "year": 2017,
+    "rating": 7.0,
+    "genre": "Horror",
+    "director": "Joachim Trier",
+    "votes": 40000,
+    "decade": 2010
+  },
+  {
+    "title": "The Killing of a Sacred Deer",
+    "country": "Norway",
+    "year": 2017,
+    "rating": 7.0,
+    "genre": "Thriller",
+    "director": "Yorgos Lanthimos",
+    "votes": 210000,
+    "decade": 2010
+  },
+  {
+    "title": "The Man Without a Past",
+    "country": "Finland",
+    "year": 2002,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Aki Kaurismaki",
+    "votes": 25000,
+    "decade": 2000
+  },
+  {
+    "title": "Le Havre",
+    "country": "Finland",
+    "year": 2011,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Aki Kaurismaki",
+    "votes": 22000,
+    "decade": 2010
+  },
+  {
+    "title": "Fallen Leaves",
+    "country": "Finland",
+    "year": 2023,
+    "rating": 7.4,
+    "genre": "Romance",
+    "director": "Aki Kaurismaki",
+    "votes": 40000,
+    "decade": 2020
+  },
+  {
+    "title": "The Swissmakers",
+    "country": "Switzerland",
+    "year": 1978,
+    "rating": 6.8,
+    "genre": "Comedy",
+    "director": "Rolf Lyssy",
+    "votes": 4000,
+    "decade": 1970
+  },
+  {
+    "title": "The Crying Game",
+    "country": "Ireland",
+    "year": 1992,
+    "rating": 7.3,
+    "genre": "Thriller",
+    "director": "Neil Jordan",
+    "votes": 56000,
+    "decade": 1990
+  },
+  {
+    "title": "Once",
+    "country": "Ireland",
+    "year": 2006,
+    "rating": 7.8,
+    "genre": "Music",
+    "director": "John Carney",
+    "votes": 130000,
+    "decade": 2000
+  },
+  {
+    "title": "The Banshees of Inisherin",
+    "country": "Ireland",
+    "year": 2022,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Martin McDonagh",
+    "votes": 250000,
+    "decade": 2020
+  },
+  {
+    "title": "Taboo",
+    "country": "Portugal",
+    "year": 2012,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Miguel Gomes",
+    "votes": 12000,
+    "decade": 2010
+  },
+  {
+    "title": "The Ornithologist",
+    "country": "Portugal",
+    "year": 2016,
+    "rating": 6.4,
+    "genre": "Drama",
+    "director": "Joao Pedro Rodrigues",
+    "votes": 5000,
+    "decade": 2010
+  },
+  {
+    "title": "How the War Started on My Island",
+    "country": "Croatia",
+    "year": 1996,
+    "rating": 7.3,
+    "genre": "Comedy",
+    "director": "Vinko Bresan",
+    "votes": 5000,
+    "decade": 1990
+  },
+  {
+    "title": "Witnesses",
+    "country": "Croatia",
+    "year": 2003,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Vinko Bresan",
+    "votes": 3000,
+    "decade": 2000
+  },
+  {
+    "title": "Underground",
+    "country": "Serbia",
+    "year": 1995,
+    "rating": 8.1,
+    "genre": "Drama",
+    "director": "Emir Kusturica",
+    "votes": 72000,
+    "decade": 1990
+  },
+  {
+    "title": "Black Cat, White Cat",
+    "country": "Serbia",
+    "year": 1998,
+    "rating": 8.1,
+    "genre": "Comedy",
+    "director": "Emir Kusturica",
+    "votes": 65000,
+    "decade": 1990
+  },
+  {
+    "title": "Time of the Gypsies",
+    "country": "Serbia",
+    "year": 1988,
+    "rating": 8.2,
+    "genre": "Drama",
+    "director": "Emir Kusturica",
+    "votes": 30000,
+    "decade": 1980
+  },
+  {
+    "title": "Rams",
+    "country": "Iceland",
+    "year": 2015,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Grimur Hakonarson",
+    "votes": 20000,
+    "decade": 2010
+  },
+  {
+    "title": "Lamb",
+    "country": "Iceland",
+    "year": 2021,
+    "rating": 6.5,
+    "genre": "Drama",
+    "director": "Valdimar Johannsson",
+    "votes": 60000,
+    "decade": 2020
+  },
+  {
+    "title": "Titane",
+    "country": "France",
+    "year": 2021,
+    "rating": 6.7,
+    "genre": "Horror",
+    "director": "Julia Ducournau",
+    "votes": 78345,
+    "decade": 2020
+  },
+  {
+    "title": "The Humans",
+    "country": "United Kingdom",
+    "year": 2021,
+    "rating": 6.9,
+    "genre": "Drama",
+    "director": "Stephen Karam",
+    "votes": 15000,
+    "decade": 2020
+  },
+  {
+    "title": "Compartment No. 6",
+    "country": "Finland",
+    "year": 2021,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Juho Kuosmanen",
+    "votes": 25000,
+    "decade": 2020
+  },
+  {
+    "title": "A Hero",
+    "country": "France",
+    "year": 2021,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Asghar Farhadi",
+    "votes": 45000,
+    "decade": 2020
+  },
+  {
+    "title": "The Card Counter",
+    "country": "Sweden",
+    "year": 2021,
+    "rating": 6.8,
+    "genre": "Drama",
+    "director": "Paul Schrader",
+    "votes": 40000,
+    "decade": 2020
+  },
+  {
+    "title": "Parallel Mothers",
+    "country": "Spain",
+    "year": 2021,
+    "rating": 7.0,
+    "genre": "Drama",
+    "director": "Pedro Almodovar",
+    "votes": 55000,
+    "decade": 2020
+  },
+  {
+    "title": "Spencer",
+    "country": "United Kingdom",
+    "year": 2021,
+    "rating": 6.9,
+    "genre": "Biography",
+    "director": "Pablo Larrain",
+    "votes": 120000,
+    "decade": 2020
+  },
+  {
+    "title": "Benedetta",
+    "country": "France",
+    "year": 2021,
+    "rating": 6.6,
+    "genre": "Drama",
+    "director": "Paul Verhoeven",
+    "votes": 45000,
+    "decade": 2020
+  },
+  {
+    "title": "The Souvenir: Part II",
+    "country": "United Kingdom",
+    "year": 2021,
+    "rating": 7.1,
+    "genre": "Drama",
+    "director": "Joanna Hogg",
+    "votes": 12000,
+    "decade": 2020
+  },
+  {
+    "title": "Memoria",
+    "country": "France",
+    "year": 2021,
+    "rating": 6.8,
+    "genre": "Drama",
+    "director": "Apichatpong Weerasethakul",
+    "votes": 25000,
+    "decade": 2020
+  },
+  {
+    "title": "After Yang",
+    "country": "France",
+    "year": 2021,
+    "rating": 6.8,
+    "genre": "Drama",
+    "director": "Kogonada",
+    "votes": 20000,
+    "decade": 2020
+  },
+  {
+    "title": "Serre moi fort",
+    "country": "France",
+    "year": 2021,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Mathieu Amalric",
+    "votes": 8000,
+    "decade": 2020
+  },
+  {
+    "title": "A Chiara",
+    "country": "Italy",
+    "year": 2021,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Jonas Carpignano",
+    "votes": 5000,
+    "decade": 2020
+  },
+  {
+    "title": "Flee",
+    "country": "Denmark",
+    "year": 2021,
+    "rating": 8.1,
+    "genre": "Documentary",
+    "director": "Jonas Poher Rasmussen",
+    "votes": 35000,
+    "decade": 2020
+  },
+  {
+    "title": "The Velvet Underground",
+    "country": "France",
+    "year": 2021,
+    "rating": 7.5,
+    "genre": "Documentary",
+    "director": "Todd Haynes",
+    "votes": 15000,
+    "decade": 2020
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "country": "Germany",
+    "year": 2022,
+    "rating": 7.8,
+    "genre": "War",
+    "director": "Edward Berger",
+    "votes": 166231,
+    "decade": 2020
+  },
+  {
+    "title": "Armageddon Time",
+    "country": "United Kingdom",
+    "year": 2022,
+    "rating": 7.1,
+    "genre": "Drama",
+    "director": "James Gray",
+    "votes": 25000,
+    "decade": 2020
+  },
+  {
+    "title": "Corsage",
+    "country": "Austria",
+    "year": 2022,
+    "rating": 7.1,
+    "genre": "Biography",
+    "director": "Marie Kreutzer",
+    "votes": 32145,
+    "decade": 2020
+  },
+  {
+    "title": "Saint Omer",
+    "country": "France",
+    "year": 2022,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Alice Diop",
+    "votes": 20000,
+    "decade": 2020
+  },
+  {
+    "title": "T\u00e1r",
+    "country": "Germany",
+    "year": 2022,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Todd Field",
+    "votes": 100245,
+    "decade": 2020
+  },
+  {
+    "title": "Pacifiction",
+    "country": "France",
+    "year": 2022,
+    "rating": 6.9,
+    "genre": "Mystery",
+    "director": "Albert Serra",
+    "votes": 8000,
+    "decade": 2020
+  },
+  {
+    "title": "Argentina 1985",
+    "country": "France",
+    "year": 2022,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Santiago Mitre",
+    "votes": 30000,
+    "decade": 2020
+  },
+  {
+    "title": "Holy Spider",
+    "country": "Denmark",
+    "year": 2022,
+    "rating": 7.4,
+    "genre": "Crime",
+    "director": "Ali Abbasi",
+    "votes": 35000,
+    "decade": 2020
+  },
+  {
+    "title": "Bardo",
+    "country": "Spain",
+    "year": 2022,
+    "rating": 6.7,
+    "genre": "Drama",
+    "director": "Alejandro G. Inarritu",
+    "votes": 50000,
+    "decade": 2020
+  },
+  {
+    "title": "The Eternal Daughter",
+    "country": "United Kingdom",
+    "year": 2022,
+    "rating": 6.9,
+    "genre": "Drama",
+    "director": "Joanna Hogg",
+    "votes": 15000,
+    "decade": 2020
+  },
+  {
+    "title": "Nos plus belles annees",
+    "country": "France",
+    "year": 2022,
+    "rating": 6.8,
+    "genre": "Romance",
+    "director": "Nicole Garcia",
+    "votes": 5000,
+    "decade": 2020
+  },
+  {
+    "title": "Banshees of Inisherin",
+    "country": "Ireland",
+    "year": 2022,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Martin McDonagh",
+    "votes": 250000,
+    "decade": 2020
+  },
+  {
+    "title": "Aftersun",
+    "country": "United Kingdom",
+    "year": 2022,
+    "rating": 7.6,
+    "genre": "Drama",
+    "director": "Charlotte Wells",
+    "votes": 180000,
+    "decade": 2020
+  },
+  {
+    "title": "Close",
+    "country": "Belgium",
+    "year": 2022,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Lukas Dhont",
+    "votes": 50000,
+    "decade": 2020
+  },
+  {
+    "title": "EO",
+    "country": "Poland",
+    "year": 2022,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Jerzy Skolimowski",
+    "votes": 20000,
+    "decade": 2020
+  },
+  {
+    "title": "Knokke Off",
+    "country": "Belgium",
+    "year": 2022,
+    "rating": 6.9,
+    "genre": "Drama",
+    "director": "Gilles Coulier",
+    "votes": 3000,
+    "decade": 2020
+  },
+  {
+    "title": "My Imaginary Country",
+    "country": "France",
+    "year": 2022,
+    "rating": 7.0,
+    "genre": "Documentary",
+    "director": "Patricio Guzman",
+    "votes": 8000,
+    "decade": 2020
+  },
+  {
+    "title": "Anatomy of a Fall",
+    "country": "France",
+    "year": 2023,
+    "rating": 7.8,
+    "genre": "Mystery",
+    "director": "Justine Triet",
+    "votes": 90145,
+    "decade": 2020
+  },
+  {
+    "title": "Past Lives",
+    "country": "France",
+    "year": 2023,
+    "rating": 7.9,
+    "genre": "Romance",
+    "director": "Celine Song",
+    "votes": 96210,
+    "decade": 2020
+  },
+  {
+    "title": "The Zone of Interest",
+    "country": "United Kingdom",
+    "year": 2023,
+    "rating": 7.3,
+    "genre": "Drama",
+    "director": "Jonathan Glazer",
+    "votes": 91045,
+    "decade": 2020
+  },
+  {
+    "title": "Io Capitano",
+    "country": "Italy",
+    "year": 2023,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Matteo Garrone",
+    "votes": 25000,
+    "decade": 2020
+  },
+  {
+    "title": "The Teachers Lounge",
+    "country": "Germany",
+    "year": 2023,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Ilker Catak",
+    "votes": 30000,
+    "decade": 2020
+  },
+  {
+    "title": "Four Daughters",
+    "country": "France",
+    "year": 2023,
+    "rating": 7.7,
+    "genre": "Documentary",
+    "director": "Kaouther Ben Hania",
+    "votes": 12000,
+    "decade": 2020
+  },
+
+  {
+    "title": "20 Days in Mariupol",
+    "country": "Ukraine",
+    "year": 2023,
+    "rating": 8.1,
+    "genre": "Documentary",
+    "director": "Mstyslav Chernov",
+    "votes": 25000,
+    "decade": 2020
+  },
+  {
+    "title": "A Haunting in Venice",
+    "country": "United Kingdom",
+    "year": 2023,
+    "rating": 6.8,
+    "genre": "Mystery",
+    "director": "Kenneth Branagh",
+    "votes": 120000,
+    "decade": 2020
+  },
+  {
+    "title": "Passages",
+    "country": "France",
+    "year": 2023,
+    "rating": 6.9,
+    "genre": "Drama",
+    "director": "Ira Sachs",
+    "votes": 15000,
+    "decade": 2020
+  },
+  {
+    "title": "Saltburn",
+    "country": "United Kingdom",
+    "year": 2023,
+    "rating": 7.4,
+    "genre": "Thriller",
+    "director": "Emerald Fennell",
+    "votes": 350000,
+    "decade": 2020
+  },
+  {
+    "title": "Rye Lane",
+    "country": "United Kingdom",
+    "year": 2023,
+    "rating": 7.2,
+    "genre": "Comedy",
+    "director": "Raine Allen-Miller",
+    "votes": 20000,
+    "decade": 2020
+  },
+  {
+    "title": "Bird",
+    "country": "United Kingdom",
+    "year": 2024,
+    "rating": 7.0,
+    "genre": "Drama",
+    "director": "Andrea Arnold",
+    "votes": 25000,
+    "decade": 2020
+  },
+  {
+    "title": "Grand Tour",
+    "country": "Portugal",
+    "year": 2024,
+    "rating": 7.1,
+    "genre": "Drama",
+    "director": "Miguel Gomes",
+    "votes": 8000,
+    "decade": 2020
+  },
+  {
+    "title": "Emilia Perez",
+    "country": "France",
+    "year": 2024,
+    "rating": 6.5,
+    "genre": "Crime",
+    "director": "Jacques Audiard",
+    "votes": 95000,
+    "decade": 2020
+  },
+  {
+    "title": "The Substance",
+    "country": "France",
+    "year": 2024,
+    "rating": 7.2,
+    "genre": "Horror",
+    "director": "Coralie Fargeat",
+    "votes": 180000,
+    "decade": 2020
+  },
+  {
+    "title": "Flow",
+    "country": "Latvia",
+    "year": 2024,
+    "rating": 8.1,
+    "genre": "Animation",
+    "director": "Gints Zilbalodis",
+    "votes": 80000,
+    "decade": 2020
+  },
+  {
+    "title": "All We Imagine as Light",
+    "country": "France",
+    "year": 2024,
+    "rating": 7.5,
+    "genre": "Drama",
+    "director": "Payal Kapadia",
+    "votes": 25000,
+    "decade": 2020
+  },
+  {
+    "title": "The Seed of the Sacred Fig",
+    "country": "Germany",
+    "year": 2024,
+    "rating": 7.7,
+    "genre": "Drama",
+    "director": "Mohammad Rasoulof",
+    "votes": 18000,
+    "decade": 2020
+  },
+  {
+    "title": "A Real Pain",
+    "country": "Poland",
+    "year": 2024,
+    "rating": 7.8,
+    "genre": "Drama",
+    "director": "Jesse Eisenberg",
+    "votes": 65000,
+    "decade": 2020
+  },
+  {
+    "title": "I'm Still Here",
+    "country": "Italy",
+    "year": 2024,
+    "rating": 7.8,
+    "genre": "Biography",
+    "director": "Walter Salles",
+    "votes": 40000,
+    "decade": 2020
+  },
+  {
+    "title": "Conclave",
+    "country": "United Kingdom",
+    "year": 2024,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "Edward Berger",
+    "votes": 200000,
+    "decade": 2020
+  },
+  {
+    "title": "On Becoming a Guinea Fowl",
+    "country": "Belgium",
+    "year": 2024,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Rungano Nyoni",
+    "votes": 10000,
+    "decade": 2020
+  },
+  {
+    "title": "Nickel Boys",
+    "country": "United Kingdom",
+    "year": 2024,
+    "rating": 7.4,
+    "genre": "Drama",
+    "director": "RaMell Ross",
+    "votes": 15000,
+    "decade": 2020
+  },
+  {
+    "title": "Dahomey",
+    "country": "France",
+    "year": 2024,
+    "rating": 7.1,
+    "genre": "Documentary",
+    "director": "Mati Diop",
+    "votes": 8000,
+    "decade": 2020
+  },
+  {
+    "title": "Hard Truths",
+    "country": "United Kingdom",
+    "year": 2024,
+    "rating": 7.2,
+    "genre": "Drama",
+    "director": "Mike Leigh",
+    "votes": 20000,
+    "decade": 2020
+  },
+  {
+    "title": "Nosferatu",
+    "country": "Germany",
+    "year": 2024,
+    "rating": 7.1,
+    "genre": "Horror",
+    "director": "Robert Eggers",
+    "votes": 250000,
+    "decade": 2020
+  },
+  {
+    "title": "A Complete Unknown",
+    "country": "United Kingdom",
+    "year": 2024,
+    "rating": 7.8,
+    "genre": "Biography",
+    "director": "James Mangold",
+    "votes": 120000,
+    "decade": 2020
+  }
+]
